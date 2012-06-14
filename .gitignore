@@ -4,8 +4,8 @@ obj
 ios
 Library
 ProjectSettings
-Resources
-Screen
+Assets/Resources
+Assets/Screen
 
 # mstest test results
 TestResults
