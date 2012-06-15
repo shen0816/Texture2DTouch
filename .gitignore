@@ -5,9 +5,14 @@ ios
 Library/*
 ProjectSettings/*
 Assets/Screen/*
+Temp
 
 # mstest test results
 TestResults
 *~
 *.swp
 *.apk
+*.sln
+*.pidb
+*.csproj
+*.userprefs
