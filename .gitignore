@@ -2,10 +2,10 @@
 bin
 obj
 ios
-Library
-ProjectSettings
-Assets/Resources
-Assets/Screen
+Library/*
+ProjectSettings/*
+Assets/Resources/*
+Assets/Screen/*
 
 # mstest test results
 TestResults
