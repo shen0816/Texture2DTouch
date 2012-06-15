@@ -9,7 +9,7 @@ public class example : MonoBehaviour , Texture2DTouchImp {
 		int size = transform.childCount;
 		tt = new Texture2DTouch[size];
 		for(int i = 0 ;i < size ;i++){
-			tt[i] = transform.Find("t_" + (i + 1)).GetComponent<Texture2DTouch>();
+			tt[i] = transform.Find("button_" + (i + 1)).GetComponent<Texture2DTouch>();
 			tt[i].SetX(100f);
 			tt[i].SetY(50f + 80f * i);
 			tt[i].Reload();
