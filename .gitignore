@@ -4,7 +4,7 @@ obj
 ios
 Library/*
 ProjectSettings/*
-Assets/Resources/*
+Assets/Resources/*.png
 Assets/Screen/*
 
 # mstest test results
